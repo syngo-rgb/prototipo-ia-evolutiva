@@ -41,7 +41,7 @@ cd prototipo-ia-evolutiva
 ```
 Ejecutar la simulación:
 ```
-python main.py
+python3 main.py
 ```
 Se abrirá una ventana donde se visualizará la evolución de los agentes en tiempo real.
 
