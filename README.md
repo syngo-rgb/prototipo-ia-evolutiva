@@ -45,14 +45,6 @@ python main.py
 ```
 Se abrirá una ventana donde se visualizará la evolución de los agentes en tiempo real.
 
-**Estructura del proyecto**
-
-main.py -->	Script principal que ejecuta la simulación y NEAT.
-agent.py --> Implementación de la lógica y red neuronal del agente.
-environment.py --> Definición del entorno, alimentos y enemigos.
-config-feedforward.txt --> Configuración de parámetros para neat-python.
-README.md--> Documentación del proyecto.
-
 **Personalización y adaptación**
 
 - Ajusta los parámetros evolutivos en config-feedforward.txt (mutación, población, etc.).
